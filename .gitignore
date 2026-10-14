@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+django-env/
+venv/
+.venv/
+db.sqlite3
+.env
